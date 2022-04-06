@@ -6,6 +6,6 @@ Steps to creat a chess games.
 
 1.  Creat a 8*8 grid of red and black squares.
 
-2.  initialize 16 turtles of 2 sets with black and white colors.
-3.  i will add later as i will make it through
-4.  
+2.  initialize 16 turtles of 2 sets with blue and white colors.
+
+
