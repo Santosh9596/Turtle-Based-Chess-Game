@@ -8,5 +8,5 @@ Steps to creat a chess games.
 
 2.initialize 16 turtles of first sets with white color.
 
-3.initialize 16 turtles of second sets with blue color.
+3.initialize 16 turtles of second sets with blue color..
 
